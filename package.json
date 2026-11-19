@@ -1,0 +1,15 @@
+{
+  "name": "neon-siege",
+  "version": "14.0.0",
+  "private": true,
+  "description": "Neon Siege campaign and online friend rooms",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.23.0"
+  }
+}
